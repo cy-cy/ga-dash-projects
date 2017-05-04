@@ -10,6 +10,6 @@
 <li><a href="https://cy-cy.github.io/ga-dash-projects/dash-project-five.html">Project 5: Build a Madlibs Game</a></li>
 </ul>
 
-The series was easy to go through. I used Firefox 53 and Windows OS, and didn't have too many issues. The support for the tutorials is a bit awkward as it's a link to a Facebook group where students post code snippets hoping to get help about why their code isn't working.
+The series was easy to go through. The support for the tutorials is a bit awkward as it's a link to a Facebook group where students post code snippets hoping to get help about why their code isn't working. There was an issue where the robot's eyes in Project 4 were blinking from 2 eyes to 1 eye that Dash's system doesn't catch. I think the animated gif asset prepared for the project was also moved out of the location mentioned in the tutorial as well.
 
-I'd recommend it to anyone curious about dipping their toe into front end web development. The tone of the instructions are light and the projects are made to seem like you are building for an actual client. Breaking up the code and instructions with some natural human dialog was really nice. 
+I'd recommend it to anyone curious about dipping their toe into front end web development. The tone of the instructions are light and the projects are made to seem like you are building for an actual client. There were some slides with some natural human dialog from your "clients" and it was a welcome break from the code snippets and instructions.
