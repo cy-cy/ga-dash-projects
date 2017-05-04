@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<h1>General Assembly's Dash Projects</h1>
 
-You can use the [editor on GitHub](https://github.com/cy-cy/general-assembly-dash-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://dash.generalassemb.ly/" target="_new">General Assembly Dash</a> is an introduction to HTML, CSS and Javascript through a series of step by step tutorials. Below are my projects for each tutorial.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+<li><a href="https://cy-cy.github.io/ga-dash-projects/dash-project-one.html">Project 1: Build a personal website</a></li>
+<li><a href="https://cy-cy.github.io/ga-dash-projects/dash-project-two.html">Project 2: Build a responsive blog theme</a></li>
+<li><a href="https://cy-cy.github.io/ga-dash-projects/dash-project-three.html">Project 3: Build a small business website</a></li>
+<li><a href="https://cy-cy.github.io/ga-dash-projects/dash-project-four.html">Project 4: Build a CSS Robot</a></li>
+<li><a href="https://cy-cy.github.io/ga-dash-projects/dash-project-five.html">Project 5: Build a Madlibs Game</a></li>
+</ul>
 
-### Markdown
+The series was easy to go through. I used Firefox 53 and Windows OS, and didn't have too many issues. The support for the tutorials is a bit awkward as it's a link to a Facebook group where students post code snippets hoping to get help about why their code isn't working.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cy-cy/general-assembly-dash-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'd recommend it to anyone curious about dipping their toe into front end web development. The tone of the instructions are light and the projects are made to seem like you are building for an actual client. Breaking up the code and instructions with some natural human dialog was really nice. 
